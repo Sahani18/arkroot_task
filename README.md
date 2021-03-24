@@ -12,3 +12,7 @@
 
 video demo
 https://user-images.githubusercontent.com/72247207/112364179-43ad2500-8cfc-11eb-9345-067709f87e40.mp4
+
+flutter web demo (image loading is taking lot of time on web )
+
+<img width="1024" alt="Screenshot 2021-03-24 at 11 56 03 PM" src="https://user-images.githubusercontent.com/72247207/112364762-e06fc280-8cfc-11eb-9c47-220e8edaf3ab.png">
